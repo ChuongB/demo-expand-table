@@ -1,0 +1,10 @@
+.mat-table {
+  width: 100%;
+}
+.inner-table .mat-row:last-child .mat-cell {
+  /* row border */
+  border-bottom: none;
+}
+.mat-table {
+  background-color: transparent;
+}
